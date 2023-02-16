@@ -1,6 +1,3 @@
-hello from MatheJoseph
+hello from Mathew
 
 //above contents pushed from my laptop
-hello from Joseph
-
-//above contents pushed from Git website
